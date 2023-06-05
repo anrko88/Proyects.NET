@@ -1,0 +1,6 @@
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Entidad.csproj.AssemblyReference.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Entidad.csproj.CoreCompileInputs.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\bin\Debug\Layer.Entidad.dll
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\bin\Debug\Layer.Entidad.pdb
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Entidad.dll
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Entidad.pdb

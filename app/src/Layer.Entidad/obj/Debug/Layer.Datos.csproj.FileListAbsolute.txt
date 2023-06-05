@@ -1,0 +1,3 @@
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Datos.csproj.AssemblyReference.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Datos.csproj.CoreCompileInputs.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Entidad\obj\Debug\Layer.Datos.csproj.SuggestedBindingRedirects.cache

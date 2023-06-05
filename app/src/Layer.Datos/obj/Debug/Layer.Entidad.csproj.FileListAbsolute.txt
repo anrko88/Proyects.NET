@@ -1,0 +1,9 @@
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\bin\Debug\Layer.Entidad.dll
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\bin\Debug\Layer.Entidad.pdb
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\bin\Debug\Capa.Entidad.dll
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\bin\Debug\Capa.Entidad.pdb
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\obj\Debug\Layer.Entidad.csproj.AssemblyReference.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\obj\Debug\Layer.Entidad.csproj.CoreCompileInputs.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\obj\Debug\Layer.Entidad.csproj.CopyComplete
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\obj\Debug\Layer.Entidad.dll
+D:\Repositories\Proyects.NET\app\src\Layer.Datos\obj\Debug\Layer.Entidad.pdb

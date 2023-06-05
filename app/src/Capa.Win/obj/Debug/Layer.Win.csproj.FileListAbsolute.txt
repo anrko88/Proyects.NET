@@ -1,0 +1,10 @@
+D:\Repositories\Proyects.NET\app\src\Layer.Win\bin\Debug\Layer.Win.exe.config
+D:\Repositories\Proyects.NET\app\src\Layer.Win\bin\Debug\Layer.Win.exe
+D:\Repositories\Proyects.NET\app\src\Layer.Win\bin\Debug\Layer.Win.pdb
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.csproj.AssemblyReference.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.Properties.Resources.resources
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.csproj.GenerateResource.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.csproj.CoreCompileInputs.cache
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.exe
+D:\Repositories\Proyects.NET\app\src\Layer.Win\obj\Debug\Layer.Win.pdb
