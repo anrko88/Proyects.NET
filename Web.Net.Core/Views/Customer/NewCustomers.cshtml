@@ -1,0 +1,57 @@
+﻿@model Web.Net.Core.Models.Customers
+
+@{
+    ViewData["Title"] = "New Customers";
+    //string id = ViewData["CustomerID"].ToString();
+}
+<!--
+<h1>New Customers</h1>
+ -->
+ <h4> NewCustomers</h4>   
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerID" class="control-label"></label>
+                <input asp-for="CustomerID" class="form-control" name="CustomerID" />
+                <span asp-validation-for="CustomerID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CompanyName" class="control-label"></label>
+                <input asp-for="CompanyName" class="form-control" name="CompanyName" />
+                <span asp-validation-for="CompanyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ContactName" class="control-label"></label>
+                <input asp-for="ContactName" class="form-control" name="ContactName" />
+                <span asp-validation-for="ContactName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" name="Address" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" name="City" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" name="Country" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+      
+            <div class="form-group">
+                <input type="submit" value="Crear Nuevo Customers" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<!--
+<div>
+    <a asp-action="ListadoCustomers" asp-controller="Customers" asp-route-id="id">Back to List</a>
+</div>
+-->

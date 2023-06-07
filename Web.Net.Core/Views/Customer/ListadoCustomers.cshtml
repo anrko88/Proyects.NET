@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Web.Net.Core.Models.Customers>
+
+@{
+    ViewData["Title"] = "ListadoCustomers";
+    //string id = ViewData["FABRICANTE"].ToString();
+}
+
+<h1>Listado Customers</h1>
+<!--
+<a asp-action="ListadoCustomers" asp-controller="Customers" class="btn btn-info">Volver al listado</a>
+-->
+<a asp-action="NewCustomers" asp-controller="Customer"  class="btn btn-success">New Customers</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <!--
+            <th>
+                Html.DisplayNameFor(model => model.ContactName)
+            </th>
+            -->
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.CustomerID)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.CompanyName)
+            </td>
+            <!--
+            <td>
+                Html.DisplayFor(modelItem => item.ContactName)
+            </td>
+            -->
+            <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                 <a class="btn btn-secondary" asp-action="EditarCustomers" asp-controller="Customer" asp-route-id="@item.CustomerID">Editar</a> |
+                 <a class="btn btn-danger" asp-action="EliminarCustomers" asp-controller="Customer" asp-route-id="@item.CustomerID">Eliminar</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
