@@ -1,6 +1,0 @@
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\bin\Debug\Capa.Entidad.dll
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\bin\Debug\Capa.Entidad.pdb
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\obj\Debug\Capa.Entidad.csproj.AssemblyReference.cache
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\obj\Debug\Capa.Entidad.csproj.CoreCompileInputs.cache
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\obj\Debug\Capa.Entidad.dll
-D:\Repositories\Proyects.NET\app\src\Capa.Entidad\obj\Debug\Capa.Entidad.pdb
