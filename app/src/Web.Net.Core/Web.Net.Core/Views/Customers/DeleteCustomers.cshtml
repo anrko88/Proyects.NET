@@ -1,0 +1,22 @@
+﻿@model Web.Net.Core.Models.Customers
+
+@{
+    ViewData["Title"] = "DeleteCustomers";
+}
+
+<h4>¿Quieres eliminar este Customers?</h4>
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerID)
+        </dt> 
+    </dl>
+    
+    <form method="post">
+        <input value="@Model.CustomerID" type="hidden" name="CustomerID" />
+        
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a class="btn btn-secondary" asp-action="ListadoCustomers" asp-controller="Customers">Listado</a>
+    </form>
+</div>
